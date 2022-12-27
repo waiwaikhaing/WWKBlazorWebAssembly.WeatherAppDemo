@@ -3,6 +3,8 @@
 ### netlify link ####
 https://weatherappdemobywwk.netlify.app/
 
+https://weatherappdemo-wsm.netlify.app/
+
 26.12.2022 Mon
 
 #### Weather app ####
